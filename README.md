@@ -116,6 +116,15 @@ Features
 
         * Submit your plugin to the Global Plugin List via a pull request (or just pull the json file).
 
+        * Example metadata to pull request to the plugin list:
+    
+                {
+                    "name": "EXAMPLEPLUGIN",
+                    "description": "This plugin does nothing, just provided here as to show how to contribute to the global-plugin-list.",
+                    "version": "v1.0.0",
+                    "download_url": "https://raw.githubusercontent.com/Faked2378/global-plugin-list/refs/heads/main/my-random-ahh-plugins/exampleplugin.py"
+                }
+
 
 # # We welcome contributions from the community! Here's how you can help:
 

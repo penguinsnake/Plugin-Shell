@@ -1,4 +1,4 @@
-# Plugin Shell
+* Plugin Shell
 
 Plugin Shell is a lightweight and extensible framework designed to do nothing on its own—but with plugins, it can do anything! Whether you're a developer looking to create custom plugins or a user wanting to enhance functionality, Plugin Shell provides a simple and flexible platform for endless possibilities.
 Features
@@ -21,8 +21,8 @@ Features
 
    * Cross-Platform: Built with Python and PySide6, it works on Windows, macOS, and Linux. (although only devtested on windows.)
 
-* Getting Started
-* * For Users
+# Getting Started
+# # For Users
 
    * Download the Latest Release:
 
@@ -48,7 +48,7 @@ Features
 
       * Alternatively, place your plugin files in the plugins directory.
 
-* * For Developers
+# # For Developers
 
    * Create a Plugin:
 
@@ -79,7 +79,7 @@ Features
         * Submit your plugin to the Global Plugin List via a pull request (or just pull the json file).
 
 
-* * We welcome contributions from the community! Here's how you can help:
+# # We welcome contributions from the community! Here's how you can help:
 
    * Core Improvements: Submit pull requests to this repository.
 
@@ -87,8 +87,8 @@ Features
 
    * Bug Reports: Open an issue if you encounter any problems.
 
-* * Before contributing, please read our Contribution Guidelines.
-* License:
+# # Before contributing, please read our Contribution Guidelines.
+# License:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 Acknowledgments:
@@ -99,16 +99,16 @@ Acknowledgments:
 
    * Users: Whether you're a current or future user, thank you for making Plugin Shell possible!
 
-* * FAQ
+# # FAQ
 
-* What is Plugin Shell?
+What is Plugin Shell?
 
-Plugin Shell is a framework that allows you to extend its functionality through plugins. By itself, it does nothing—but with plugins, it can do anything!
+* Plugin Shell is a framework that allows you to extend its functionality through plugins. By itself, it does nothing—but with plugins, it can do anything!
 
-* How do I create a plugin?
+How do I create a plugin?
 
-Check out the Developer Guide above or refer to the Plugin Template.
+* Check out the Developer Guide above or refer to the Plugin Template.
 
-* Can I suggest a feature or report a bug?
+Can I suggest a feature or report a bug?
 
-Yes! Open an issue on the GitHub Issues Page.
+* Yes! Open an issue on the GitHub Issues Page.

@@ -1,4 +1,4 @@
-* Plugin Shell
+# Plugin Shell
 
 Plugin Shell is a lightweight and extensible framework designed to do nothing on its own—but with plugins, it can do anything! Whether you're a developer looking to create custom plugins or a user wanting to enhance functionality, Plugin Shell provides a simple and flexible platform for endless possibilities.
 Features

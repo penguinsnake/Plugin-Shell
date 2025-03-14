@@ -78,13 +78,13 @@ Features
          PLUGIN_METADATA = {
     
          
-            "name": "My Awesome Plugin",
+             "name": "My Awesome Plugin",
     
          
-            "version": "1.0",
+              "version": "1.0",
     
          
-            "description": "This plugin does something amazing!"
+              "description": "This plugin does something amazing!"
     
          
          }
@@ -93,13 +93,13 @@ Features
          def enable(app):
     
          
-            print("Plugin enabled!")
+              print("Plugin enabled!")
 
 
          def disable(app):
     
          
-            print("Plugin disabled!")
+              print("Plugin disabled!")
 
 
    * Test Your Plugin:

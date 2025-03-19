@@ -22,36 +22,21 @@ Features
    * Cross-Platform: Built with Python and PySide6, it works on Windows, macOS, and Linux. (although only devtested on windows.)
 
 # Getting Started
-# # For Users
+## For Users
 
    * Download the Latest Release:
 
-      1) Visit the Releases Page and download the latest version.
+      * Visit the Releases Page and download the latest version.
 
    * Run the Program:
 
-      1) Extract the downloaded files and navigate to the project directory:
-    
-         
-        1a. bash
+      * Extract the downloaded files and navigate to the project directory:
 
-     
-        1b. Copy
-
-
-        1c. cd PluginShell
-
+        * cd PluginShell
 
       2) Run the program:
 
-         
-        2a. bash
-
-     
-        2b. Copy
-
-
-        2c. python main.py
+        * python main.py
 
 
    * Install Plugins:
@@ -63,7 +48,7 @@ Features
       * Alternatively, place your plugin files in the plugins directory.
 
 
-# # For Developers
+## For Developers
 
 
    * Create a Plugin:
@@ -116,7 +101,7 @@ Features
 
         * Submit your plugin to the Global Plugin List via a pull request (or just pull the json file).
 
-        * Example metadata to pull request to the plugin list json file:
+        * Example metadata to pull request to the plugin list:
     
                 {
                     "name": "EXAMPLEPLUGIN",
@@ -126,7 +111,7 @@ Features
                 }
 
 
-# # We welcome contributions from the community! Here's how you can help:
+## We welcome contributions from the community! Here's how you can help:
 
 
    * Core Improvements: Submit pull requests to this repository.
@@ -138,7 +123,7 @@ Features
    * Bug Reports: Open an issue if you encounter any problems.
 
 
-# # Before contributing, please read our Contribution Guidelines.
+## Before contributing, please read our Contribution Guidelines.
 
 
 # License:
@@ -158,7 +143,7 @@ Acknowledgments:
    * Users: Whether you're a current or future user, thank you for making Plugin Shell possible!
 
 
-# # FAQ
+## FAQ
 
 
 What is Plugin Shell?

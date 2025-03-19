@@ -30,7 +30,7 @@ Features
 
    * Run the Program:
 
-      * Extract the downloaded files and navigate to the project directory:
+      1) Extract the downloaded files and navigate to the project directory:
 
         * cd PluginShell
 
@@ -123,7 +123,7 @@ Features
    * Bug Reports: Open an issue if you encounter any problems.
 
 
-## Before contributing, please read our Contribution Guidelines.
+## Before contributing, please read our [Contribution Guidelines](https://github.com/penguinsnake/Plugin-Shell/wiki/Contribution-Guidelines).
 
 
 # License:

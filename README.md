@@ -116,7 +116,7 @@ Features
 
         * Submit your plugin to the Global Plugin List via a pull request (or just pull the json file).
 
-        * Example metadata to pull request to the plugin list json file:
+        * Example metadata to pull request to the plugin list:
     
                 {
                     "name": "EXAMPLEPLUGIN",
